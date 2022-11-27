@@ -56,7 +56,7 @@ const students = [
 
 /// Input user
 
-let input = parseInt(prompt('type a number between 1 to 15: '))
+let input = parseInt(prompt('type a number between 1 to 15: node'))
 
 if (input === 1) {
     console.table(students);  
@@ -137,7 +137,7 @@ if (input === 1) {
     console.log(sortedList);
     
   } else{
-    let = input = parseInt(prompt('type a number between 1 to 15: '))
+    console.log('Start again to type a number between 1 to 15')
   }
  
 
