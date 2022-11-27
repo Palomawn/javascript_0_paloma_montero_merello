@@ -1,7 +1,6 @@
 // declare array with students (done)
-// show requisites to the user so he can choose one of them (done)
-// let the user press a number
-// show rquesite 1 (table format)
+// let the user type a number (done)
+// show rquesites (done)
 
 const ps = require("prompt-sync");
 const prompt = ps();
